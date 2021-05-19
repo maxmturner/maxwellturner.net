@@ -43,7 +43,7 @@ div.container {
 .icon {
     /* display:inline-block;  */
     margin: 15px;
-    font-size:xx-large;
+    font-size:100px !important;
     color: white;
 }
 
